@@ -1,40 +1,25 @@
-# Welcome to Amar's GitHub Repository!
+<h1 align="center">Hi 👋, I'm Amar Kumar</h1>
+<h3 align="center">I'm a passionate coder with a love for crafting innovative solutions and exploring the vast world of technology. With a strong foundation in Java, C++, and web development technologies, I'm always eager to tackle new challenges and expand my skill set.</h3>
 
-## About Me
-Hello, fellow developers! I'm Amar Kumar, a passionate coder with a love for crafting innovative solutions and exploring the vast world of technology. With a strong foundation in Java, C++, and web development technologies, I'm always eager to tackle new challenges and expand my skill set.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amar-codingenthusiast&label=Profile%20views&color=0e75b6&style=flat" alt="amar-codingenthusiast" /> </p>
 
-## Skills
-- Java
-- C++
-- HTML
-- CSS
-- JavaScript
-- DSA (Data Structures & Algorithms)
-- MERN (MongoDB, Express.js, React.js, Node.js)
-- Bootstrap & React-bootstrap
-- Maven & Gradle
-- MySQL
-- Git & GitHub
-- JDBC (Java Database Connectivity)
+- 👨‍💻 All of my projects are available at [https://amar-codingenthusiast.github.io/portfolio](https://amar-codingenthusiast.github.io/portfolio)
 
-## What You'll Find Here
-In this repository, you'll find a collection of projects that showcase my expertise and enthusiasm for coding. From full-stack web applications to algorithmic challenges, each project reflects my dedication to quality and my commitment to continuous learning.
+- 📫 How to reach me **amar.codingenthusiast@gmail.com**
 
-## Projects
-### iNoteBook
-A secure cloud notebook built using the MERN stack. Dive into the code to explore how I implemented robust authentication and encryption techniques to ensure data privacy and security.
+- 📄 Know about my experiences [https://drive.google.com/file/d/1b4CT4swECODIr5rF9Lw44uQqH3Xww6t_/view?usp=drive_link](https://drive.google.com/file/d/1b4CT4swECODIr5rF9Lw44uQqH3Xww6t_/view?usp=drive_link)
 
-### Amazon Clone
-Ever wondered how Amazon's homepage is designed? Check out my HTML and CSS clone of Amazon.com's homepage and see how I recreated the user interface with pixel-perfect precision.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/amar-codingenthusiast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amar-codingenthusiast" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/amar-codingenthusiast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amar-codingenthusiast" height="30" width="40" /></a>
+</p>
 
-## Hobbies & Interests
-- Enthusiastic Reader - Delving into Non-Fiction worlds
-- Photo Editing
-- Gaming
-- Drawing
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-## Get in Touch
-I'm always open to collaboration and networking opportunities. Whether you have feedback on my projects, suggestions for improvement, or just want to chat about coding and technology, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/amar-codingenthusiast), [LeetCode](https://www.leetcode.com/amar-codingenthusiast) or via [email](mailto:amar.codingenthusiast@gmail.com).
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amar-codingenthusiast&show_icons=true&locale=en&layout=compact" alt="amar-codingenthusiast" /></p>
 
-## Let's Connect
-Don't forget to follow me on GitHub to stay updated on my latest projects and contributions. Together, let's push the boundaries of what's possible with code!
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amar-codingenthusiast&show_icons=true&locale=en" alt="amar-codingenthusiast" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amar-codingenthusiast&" alt="amar-codingenthusiast" /></p>
