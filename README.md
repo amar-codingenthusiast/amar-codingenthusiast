@@ -1,10 +1,11 @@
-<img src="https://drive.google.com/file/d/1uR_4mr7A_iNHSUxihUWJTpHOGBDJQYXJ/view?usp=drive_link](https://drive.google.com/file/d/1Cb1N7-uIc-j_-1v-k7rns1XJemhV18nP/view?usp=drive_link" alt="coding pic" width="100%"/>
+<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="coding pic" width="100%"/>
 <h1 align="center">Hi 👋, I'm Amar Kumar</h1>
 <h3 align="center">I'm a passionate coder with a love for crafting innovative solutions and exploring the vast world of technology.</h3>
-<img src="https://drive.google.com/file/d/1uR_4mr7A_iNHSUxihUWJTpHOGBDJQYXJ/view?usp=drive_link" alt="coding gif" align="right" width="400"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amar-codingenthusiast&label=Profile%20views&color=0e75b6&style=flat" alt="amar-codingenthusiast" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amar-codingenthusiast" alt="amar-codingenthusiast" /></a> </p>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding gif" align="right" width="400"/>
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
