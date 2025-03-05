@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **amar.codingenthusiast@gmail.com**
 
-- 📄 Know about my experience in [My Resume](https://drive.google.com/file/d/1b4CT4swECODIr5rF9Lw44uQqH3Xww6t_/view?usp=drive_link)
+- 📄 Know about my experience in [My Resume](https://amar-codingenthusiast.github.io/resume-website)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
